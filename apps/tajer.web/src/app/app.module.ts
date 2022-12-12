@@ -7,7 +7,7 @@ import { AppComponent } from './app.component';
 @NgModule({
   declarations: [AppComponent],
   imports: [
-    BrowserModule.withServerTransition({ appId: 'serverApp' }),
+    BrowserModule.withServerTransition({ appId: 'tajer.web' }),
     AppRoutingModule
   ],
   providers: [],
