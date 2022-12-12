@@ -2,6 +2,11 @@
   "name": "tajer",
   "version": "0.0.0",
   "license": "MIT",
+  "description": "a really cool app",
+  "engines": {
+    "node": "18.x",
+    "npm": "8.x"
+  },
   "scripts": {
     "ng": "nx",
     "start": "nx serve",
